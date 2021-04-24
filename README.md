@@ -8,6 +8,7 @@
  </p>
 <hr>
   Actualmente estoy estudiando: Angular
+  
 <p><em>Intenté aprender diferentes lenguajes y herramientas, entre ellos:</em><p>
  <ul>
  <li type="disc"> Java </li>
@@ -20,6 +21,6 @@
  </ul>
  
 <p><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mi...</p>
-<p>Estoy estudiando de forma autodidacta, actualmente estoy realizando un curso de Angular y realizando proyectos para ir aplicando los conocimientos adquiridos.</p>
+<p>Estoy estudiando de forma autodidacta, actualmente estoy con un curso de Angular y realizando proyectos para ir aplicando los conocimientos adquiridos.</p>
 <p>:sparkling_heart: Soy fan de las series, café y las milanesas con puré.</p>
 
