@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Holi, soy Florencia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-   <p><em>Desarrolladora Web Jr.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+   <p><em>Desarrolladora Web Jr.</em></p>
 </div>
 <p align='center'>
    <a href="https://www.linkedin.com/in/florencia-dubininkas/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
