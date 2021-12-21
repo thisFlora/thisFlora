@@ -22,6 +22,6 @@
  </ul>
  
 <p><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mi...</p>
-<p>Estudio de forma autodidacta y realizando proyectos para ir aplicando los conocimientos adquiridos.</p>
+<p>Estudio de forma autodidacta y realizo proyectos para ir aplicando los conocimientos adquiridos.</p>
 <p>:sparkling_heart: Soy fan de las series, café y las milanesas con puré.</p>
 
